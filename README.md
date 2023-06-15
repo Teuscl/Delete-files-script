@@ -1,0 +1,1 @@
+This is a script that I made to automate a process that is too important in my job. I work in a company that make livestreams and we deal with Terabytes of records of this livestream. Regularly, I needed to check this records, filter by date and delete them to free space in our machines. With this script, this process occurs once a day, no longer needed a human intervention.
